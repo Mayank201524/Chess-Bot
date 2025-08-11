@@ -1,8 +1,3 @@
-# Chess-Bot
-Here’s a **README** file for your **Chess Bot** project:  
-
----
-
 ### **Chess Bot – AI-Powered Competitive Chess Engine**  
 
 #### **Project Overview**  
